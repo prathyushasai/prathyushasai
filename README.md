@@ -1,6 +1,10 @@
 ### Hi, I'm Prathyusha! 👋👩🏻‍💻
 
-I'm a Site Reliability Engineer at Adobe, engaging with core internal platforms to improve their reliability. Having worked previously with machine learning applications, I look for creative ways to integrate it into service reliability. I am currently working towards my Masters in Information and Data Science from University of California, Berkeley, with an emphasis in Machine Learning. I am also heavily involved in organizations focused on empowering and encouraging minorities in STEM. In my free time, she enjoys teaching yoga 🧘🏻, traveling ✈️, and trying new food 🥘.
+I'm a Site Reliability Engineer at Adobe, engaging with core internal platforms to improve their reliability. Having worked previously with machine learning applications, I look for creative ways to integrate it into service reliability. 
+
+I am currently working towards my Masters in Information and Data Science from University of California, Berkeley, with an emphasis in Machine Learning. I am also heavily involved in organizations focused on empowering and encouraging minorities in STEM. 
+
+In my free time, she enjoys teaching yoga 🧘🏻, traveling ✈️, and trying new food 🥘.
 
 ## Find me on the Web 🌎
 
