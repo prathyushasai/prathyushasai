@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Prathyusha! 👋👩🏻‍💻
+
+I'm a Site Reliability Engineer at Adobe, engaging with core internal platforms to improve their reliability. Having worked previously with machine learning applications, I look for creative ways to integrate it into service reliability. I am currently working towards my Masters in Information and Data Science from University of California, Berkeley, with an emphasis in Machine Learning. I am also heavily involved in organizations focused on empowering and encouraging minorities in STEM. In my free time, she enjoys teaching yoga 🧘🏻, traveling ✈️, and trying new food 🥘.
+
+## Find me on the Web 🌎
+
+- <a href="https://www.linkedin.com/in/pcharagondla/">Linkedin</a>
+- <a href="https://twitter.com/pcharagondla">Twitter</a>
+- <a href="https://medium.com/@pcharagondla">Medium</a>
+- <a href="https://prathyushasai.github.io/">Personal Website</a> for some of my escapades
 
 <!--
 **prathyushasai/prathyushasai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
