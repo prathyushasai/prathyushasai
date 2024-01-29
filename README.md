@@ -1,8 +1,8 @@
 ### Hi, I'm Prathyusha! 👋👩🏻‍💻
 
-I'm a Site Reliability Engineer at Adobe, engaging with core internal platforms to improve their reliability. Having worked previously with machine learning applications, I look for creative ways to integrate it into service reliability. 
+I'm a Machine Learning Engineer at Adobe, working on the Firegly / Gen AI Platform. 
 
-I am currently working towards my Masters in Information and Data Science from University of California, Berkeley, with an emphasis in Machine Learning. I recieved my Bachelors in Data Science and Cognitive Science at UC Berkeley (Go Bears! :bear: ). I am also heavily involved in organizations focused on empowering and encouraging minorities in STEM. 
+I recieved my Masters in Information and Data Science with an emphasis in Machine Learning and my Bachelors in Data Science and Cognitive Science from University of California, Berkeley (Go Bears! :bear: ). I am also heavily involved in organizations focused on empowering and encouraging minorities in STEM. 
 
 In my free time, I enjoy teaching yoga 🧘🏻, traveling ✈️, and trying new food 🥘.
 
