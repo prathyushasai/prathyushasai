@@ -1,6 +1,6 @@
 ### Hi, I'm Prathyusha! 👋👩🏻‍💻
 
-I'm a Machine Learning Engineer at Adobe, working on the Firegly / Gen AI Platform. 
+I'm a Machine Learning Engineer at Adobe, working on the Firefly / Gen AI Platform. 
 
 I recieved my Masters in Information and Data Science with an emphasis in Machine Learning and my Bachelors in Data Science and Cognitive Science from University of California, Berkeley (Go Bears! :bear: ). I am also heavily involved in organizations focused on empowering and encouraging minorities in STEM. 
 
